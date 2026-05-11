@@ -1,3 +1,7 @@
+# This script creates a comma-separated text file of 
+# every YT video for a given channel. It performs regex
+# scrubbing to make titles ready for filenames.
+
 #!/usr/bin/env python3
 import argparse
 import re
